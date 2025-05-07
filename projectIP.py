@@ -65,7 +65,6 @@ from gen_pencil_drawing import gen_pencil_drawing
 
 
 
-
 # Let's see an example Pencil Texture Map:
 
 
